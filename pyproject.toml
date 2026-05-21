@@ -9,7 +9,7 @@ preview = true
 select = ["E", "F", "I", "C90"]
 
 [project]
-name = "hardworking"
+name = "hexlet-code"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
